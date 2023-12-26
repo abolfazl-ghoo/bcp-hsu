@@ -188,6 +188,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>15</td>
     <td>2015</td>
     <td>کوئرا</td>
+    <a href='https://quera.org/problemset/593'>لینک سوال +</a>
     <td>
       حلزون مختصاتی (ساده)<br>
       <a href='https://quera.org/problemset/597'>لینک سوال +</a>
